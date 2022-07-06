@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 
-body {
-  margin: 20px;
+body {  
+  margin: 20px auto;
   background-color: rgb(240, 240, 240);
 }
 
